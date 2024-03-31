@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gorev6deneme/static/css/main.c82619a2.css",
+    "main.js": "/gorev6deneme/static/js/main.afaf1363.js",
+    "static/js/453.933efc42.chunk.js": "/gorev6deneme/static/js/453.933efc42.chunk.js",
+    "index.html": "/gorev6deneme/index.html",
+    "main.c82619a2.css.map": "/gorev6deneme/static/css/main.c82619a2.css.map",
+    "main.afaf1363.js.map": "/gorev6deneme/static/js/main.afaf1363.js.map",
+    "453.933efc42.chunk.js.map": "/gorev6deneme/static/js/453.933efc42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c82619a2.css",
+    "static/js/main.afaf1363.js"
+  ]
+}
